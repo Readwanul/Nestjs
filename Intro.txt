@@ -1,1 +1,9 @@
 Advance web technology course
+..................
+For install nestjs -[npm install -g @nestjs/cli]
+For create project -[nest new PROJECT_NAME]
+Run code like livesrever -[ npm run start:dev ]
+// Create file....................
+For create controller -[ nest g controller [name] ]
+For create service -[ nest g service [name] ]
+For create module -[ nest g module [name] ]
